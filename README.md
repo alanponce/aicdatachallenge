@@ -39,5 +39,4 @@ Este proyecto se enfoca en el análisis de los principales productos agrícolas 
 ### NOTA:
 **La valoración del proyecto será en base a los diversos puntos que pueda completar en el reto**
 
-## Cómo Participar
-Para generar su repositorio de participación favor de aceptar y seguir las instrucciones de esta liga
+
